@@ -43,3 +43,8 @@ article,
 section{
 	break-after: page;
 }
+
+[epub|type~="z3998:poem"] footer > p{
+	margin-top: 1em;
+	text-align: right;
+}
