@@ -19,7 +19,6 @@
 }
 
 /* Poetry */
-
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -38,5 +37,9 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
-
 /* End poetry */
+
+article,
+section{
+	break-after: page;
+}
