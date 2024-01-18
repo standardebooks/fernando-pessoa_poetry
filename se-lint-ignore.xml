@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="content.opf">
+		<ignore>
+			<code>m-007</code>
+			<reason>Page scans link to page on which the poem occurs.</reason>
+		</ignore>
+	</file>
+	<file path="english-poems.xhtml">
+		<ignore>
+			<code>y-005</code>
+			<reason>The interjection "lo!" is legitimately separated by commas from the rest of the line.</reason>
+		</ignore>
+	</file>
+	<file path="poetry.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>This file is part of a poetry omnibus.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
