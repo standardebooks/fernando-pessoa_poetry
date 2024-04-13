@@ -76,17 +76,20 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nb99067586</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<!-- 35 Sonnets-->
-		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
+		<dc:contributor id="transcriber-1">Rita Farinha</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Farinha, Rita</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<!-- English Poems-->
-		<dc:contributor id="transcriber-2">Laura Natal Rodrigues</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Natal Rodrigues, Laura</meta>
+		<dc:contributor id="transcriber-2">Joshua Hutchinson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Hutchinson, Joshua</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<!-- "Meantime" and "Spell"-->
-		<dc:contributor id="transcriber-3">Arquivo Pessoa</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Arquivo Pessoa</meta>
+		<!-- English Poems-->
+		<dc:contributor id="transcriber-3">Laura Natal Rodrigues</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Natal Rodrigues, Laura</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<!-- "Meantime" and "Spell"-->
+		<dc:contributor id="transcriber-4">Arquivo Pessoa</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Arquivo Pessoa</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Erin Endrei</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Endrei, Erin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
