@@ -32,6 +32,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85103704</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Fernando Pessoa’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fernando-pessoa"&gt;Fernando Pessoa&lt;/a&gt; is best known for his heteronyms, personas under which he wrote some of the most famous prose in Portuguese literature. Educated at an English-speaking school in Durban, South Africa, Pessoa developed a considerable command of English and continued to write privately in the language throughout his life.&lt;/p&gt;
