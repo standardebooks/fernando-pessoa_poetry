@@ -60,7 +60,7 @@
 		<!-- "Spell", p. 43 -->
 		<dc:source>http://arquivopessoa.net/textos/1761</dc:source>
 		<dc:source>https://hemerotecadigital.cm-lisboa.pt/OBRAS/CONTEMPORANEA/1923/N9/N9_item1</dc:source>
-		<meta property="se:word-count">10615</meta>
+		<meta property="se:word-count">10417</meta>
 		<meta property="se:reading-ease.flesch">74.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/35_Sonnets</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fernando-pessoa_poetry</meta>
