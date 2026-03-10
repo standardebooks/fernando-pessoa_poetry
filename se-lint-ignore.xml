@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="english-poems.xhtml">
 		<ignore code="y-005">
+			<line>216</line>
 			<reason>The interjection "lo!" is legitimately separated by commas from the rest of the line.</reason>
 		</ignore>
 	</file>
 	<file path="poetry.xhtml">
 		<ignore code="m-045">
+			<line>4</line>
 			<reason>This file is part of a poetry omnibus.</reason>
 		</ignore>
 	</file>
