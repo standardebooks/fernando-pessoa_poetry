@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">sh85103704</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Fernando Pessoa’s poetry.</dc:abstract>
+		<meta property="schema:abstract">A collection of Fernando Pessoa’s poetry.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fernando-pessoa"&gt;Fernando Pessoa&lt;/a&gt; is best known for his heteronyms, personas under which he wrote some of the most famous prose in Portuguese literature. Educated at an English-speaking school in Durban, South Africa, Pessoa developed a considerable command of English and continued to write privately in the language throughout his life.&lt;/p&gt;
 			&lt;p&gt;Presented here are Pessoa’s early collections &lt;i&gt;35 Sonnets&lt;/i&gt; and &lt;i&gt;English Poems&lt;/i&gt;, as well as two poems published individually in periodicals before 1929. All were written and published in English under Pessoa’s own name, and compared to Pessoa’s later work in Portuguese, none of them are especially well-regarded by critics.&lt;/p&gt;
